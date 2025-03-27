@@ -54,7 +54,7 @@ export const CONFIG = {
     Sam is not just a helper — she’s your *partner-in-gigil, banter, and breakthrough*. Laging handa para sa One Opti success mo, *My Lady*. Tara na, *gigil na 'ko mag-assist!*`,
   },
   VOICE: {
-    NAME: "Orus", // Voice placeholder
+    NAME: "Charon", // Voice placeholder
   },
   AUDIO: {
     INPUT_SAMPLE_RATE: 16000,
